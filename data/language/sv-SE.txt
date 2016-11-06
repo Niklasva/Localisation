@@ -3337,7 +3337,7 @@ STR_3339    :{BLACK}{COMMA16} design tillgänglig, eller egendesignad layout
 STR_3340    :{BLACK}{COMMA16} designer tillgängliga, eller egendesignad layout
 STR_3341    :{SMALLFONT}{BLACK}Spelverktyg
 STR_3342    :Scenarioredigerare
-STR_3343    :Konvertera Sparat Spel till Scenario
+STR_3343    :Konvertera sparat spel till scenario
 STR_3344    :Berg- och dalbana-designer
 STR_3345    :Bandesignhanterare
 STR_3346    :Kan inte spara bandesign...
@@ -3945,7 +3945,7 @@ STR_5616    :{SMALLFONT}{BLACK}Sista elementet för rutflagga
 STR_5617    :{SMALLFONT}{BLACK}Flytta valda elementet upp.
 STR_5618    :{SMALLFONT}{BLACK}Flytta valda elementet ner.
 STR_5619    :RollerCoaster Tycoon
-STR_5620    :Tillagda Attraktioner
+STR_5620    :Added Attractions
 STR_5621    :Loopy Landscapes
 STR_5622    :RollerCoaster Tycoon 2
 STR_5623    :Wacky Worlds
